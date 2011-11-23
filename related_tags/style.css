@@ -1,0 +1,29 @@
+
+.related_section {
+	border-top: 1px solid #CCC; 
+	overflow: auto;
+	margin-top: 1em
+}
+
+.related_header {
+	font-size: 100%; 
+	margin-bottom: 1em;
+	color: #333;
+}
+
+.related_article {
+	float:left; 
+	margin-left:15px; 
+	margin-right: 10px; 
+	margin-bottom: 1em; 
+	width: 128px;
+}
+
+.related_img {
+	width : 125px; 
+	height : 125px;
+}
+
+.related_link {
+	font-size: 12px;
+}
